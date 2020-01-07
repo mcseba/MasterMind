@@ -1,5 +1,5 @@
 # MasterMind
-C# console application - MasterMind game
+C# console application - MasterMind game.
 My solution includes universal GameEngine class and dedicated for polish players GameInterface.
 
 Master Mind is a code-breaking game for 2 players (in this case it's Computer vs User). 
